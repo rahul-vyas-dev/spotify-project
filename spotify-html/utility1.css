@@ -1,0 +1,24 @@
+.flex {
+    display: flex;
+    gap: 5px;
+    /* align-items: flex-start; */
+    box-sizing: border-box;
+}
+
+.red-border {
+    padding: 15px
+}
+
+.for-text-of-playlist {
+    color: #b3b3b3;
+    font-weight: 400;
+}
+.for-card {
+    margin-top: 35px;
+}
+
+.card-text {
+    display: flex;
+    justify-content: space-between;
+
+}
